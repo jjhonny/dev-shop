@@ -1,13 +1,6 @@
 <h1 align="center" style="font-weight: bold;">Dev Shop 💻</h1>
 
 <p align="center">
- <a href="#tech">Technologies</a> • 
- <a href="#started">Getting Started</a> • 
-  <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
-</p>
-
-<p align="center">
     <b>A website that simulates an e-commerce of technology products, using the context api concept to create the shopping cart logic</b>
 </p>
 
